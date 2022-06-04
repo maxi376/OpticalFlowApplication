@@ -1,0 +1,2 @@
+﻿  OpenCVApplication.cpp
+e:\faculta an 3 sem ii\procesarea imaginilor\proiectul\opencvapplication-vs2015_ocv31_basic\opencvapplication.cpp(153): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
